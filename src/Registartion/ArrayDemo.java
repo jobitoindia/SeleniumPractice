@@ -22,10 +22,7 @@ public class ArrayDemo
 		multiArra[0][1]=1001;
 		multiArra[1][0]=1003;
 		multiArra[1][1]=1004;
-		
-		Collection<Integer>
-		
-		
+				
 		int mArray[][]= {{1,2,3},{4,5,6},{7,8,9}};
 		
 		int mA[][]= {{1,2,3,4,5,6},{4,5,6,77,88,99}};
@@ -34,11 +31,11 @@ public class ArrayDemo
 			System.out.println(ijk);
 		}
 		
-		for(int i=0;i<3;i++)   // row
+		for(int i1=0;i1<3;i1++)   // row
 		{
 			for(int j=0;j<3;j++) {  //column
 				
-				System.out.println(mArray[i][j]);
+				System.out.println(mArray[i1][j]);
 			}
 		}
 		
