@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-07T08:59:00 IST" name="Default suite" finished-at="2025-07-07T08:59:00 IST" duration-ms="232">
+    <groups>
+    </groups>
+    <test started-at="2025-07-07T08:59:00 IST" name="Default test" finished-at="2025-07-07T08:59:00 IST" duration-ms="232">
+      <class name="testNgDemo.TestNGDemoClass">
+        <test-method is-config="true" signature="a()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="a" finished-at="2025-07-07T08:59:00 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="b()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="b" finished-at="2025-07-07T08:59:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method is-config="true" signature="c()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="c" finished-at="2025-07-07T08:59:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="d" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="e()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="e" finished-at="2025-07-07T08:59:00 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e -->
+        <test-method is-config="true" signature="g()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="g" finished-at="2025-07-07T08:59:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="d" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="f()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="f" finished-at="2025-07-07T08:59:00 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="g()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="g" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="d" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="ff()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="ff" finished-at="2025-07-07T08:59:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ff -->
+        <test-method is-config="true" signature="g()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="g" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="d" finished-at="2025-07-07T08:59:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="loginTest" data-provider="userDetails" finished-at="2025-07-07T08:59:00 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adnin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="g()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="g" finished-at="2025-07-07T08:59:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="loginTest" data-provider="userDetails" finished-at="2025-07-07T08:59:00 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="d" finished-at="2025-07-07T08:59:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method is-config="true" signature="g()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="g" finished-at="2025-07-07T08:59:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="d" finished-at="2025-07-07T08:59:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="loginTest" data-provider="userDetails" finished-at="2025-07-07T08:59:00 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="g()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="g" finished-at="2025-07-07T08:59:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="d" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="loginTest" data-provider="userDetails" finished-at="2025-07-07T08:59:00 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="g()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="g" finished-at="2025-07-07T08:59:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method is-config="true" signature="d()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="d" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="loginTest" data-provider="userDetails" finished-at="2025-07-07T08:59:00 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="g()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="g" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method is-config="true" signature="h()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="h" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method is-config="true" signature="i()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="i" finished-at="2025-07-07T08:59:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i -->
+        <test-method is-config="true" signature="j()[pri:0, instance:testNgDemo.TestNGDemoClass@689604d9]" started-at="2025-07-07T08:59:00 IST" name="j" finished-at="2025-07-07T08:59:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- j -->
+      </class> <!-- testNgDemo.TestNGDemoClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
